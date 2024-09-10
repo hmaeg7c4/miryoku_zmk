@@ -12,6 +12,7 @@ jobs:
       shield: '["lily58_left","lily58_right"]'
       alphas: '["default"]'
       nav: '["default"]'
+      layers: '["default"]'
       extra: '["default"]'
       tap: '["default"]'
       clipboard: '["default"]'
