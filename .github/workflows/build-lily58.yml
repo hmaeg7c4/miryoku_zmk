@@ -14,6 +14,7 @@ jobs:
       nav: '["default"]'
       layers: '["default"]'
       mapping: '["default"]'
+      custom_config: '["default"]'
       extra: '["default"]'
       tap: '["default"]'
       clipboard: '["default"]'
