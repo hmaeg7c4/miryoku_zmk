@@ -19,5 +19,5 @@ jobs:
       tap: '["default"]'
       clipboard: '["default"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y\nCONFIG_ZMK_PM_SOFT_OFF=y"]'
-      branches: '["petejohanson/zmk/feat/pointers-move-scroll","zmkfirmware/zmk/main petejohanson/zmk/feat/pointers-move-scroll"]'
+      branches: '["petejohanson/zmk/feat/pointers-move-scroll"]'
       modules: '["default"]'
