@@ -10,3 +10,6 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["lily58_left","lily58_right"]'
+      alphas: '["default"]'
+      extra: '["default"]'
+      tap: '["default"]'
