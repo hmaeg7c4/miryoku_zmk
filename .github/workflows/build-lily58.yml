@@ -11,5 +11,7 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["lily58_left","lily58_right"]'
       alphas: '["default"]'
+      nav: '["default"]'
       extra: '["default"]'
       tap: '["default"]'
+      clipboard: '["default"]'
