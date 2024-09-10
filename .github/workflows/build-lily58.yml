@@ -13,6 +13,7 @@ jobs:
       alphas: '["default"]'
       nav: '["default"]'
       layers: '["default"]'
+      mapping: '["default"]'
       extra: '["default"]'
       tap: '["default"]'
       clipboard: '["default"]'
